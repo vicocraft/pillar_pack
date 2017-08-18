@@ -1,0 +1,78 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 2,
+        "max": 5
+      },
+      "bonus_rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:glass_bottle",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "minecraft:nether_wart",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "minecraft:redstone",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:glowstone_dust",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:fermented_spider_eye",
+          "weight": 8
+        },
+        {
+          "type": "item",
+          "name": "minecraft:blaze_powder",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "minecraft:magma_cream",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "minecraft:spider_eye",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "minecraft:speckled_melon",
+          "weight": 8
+        },
+        {
+          "type": "item",
+          "name": "minecraft:ghast_tear",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "minecraft:sugar",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:gunpowder",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "minecraft:dragon_breath",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

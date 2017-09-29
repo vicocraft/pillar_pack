@@ -1,11 +1,5 @@
-// ===================================================================
-// This is a template for a Pillar structure
-// Do not include these lines in your file
-// The _template.json file is ignored so don't worry about it
-// ===================================================================
-
 {
-	"generatorType": "NONE",
+	"generatorType": "SURFACE",
 	"minY": -1,
 	"maxY": -1,
 	"offsetX": 0,
@@ -16,20 +10,29 @@
 	"rotation": null,
 	"ignoreEntities": false,
 
-	"dimensionSpawns": [],
+	"dimensionSpawns": [
+		0
+	],
 	"biomeNameSpawns": [],
-	"biomeTagSpawns": [],
+	"biomeTagSpawns": [
+		"FOREST",
+		"PLAINS",
+		"MOUNTAIN",
+		"HILLS",
+		"BEACH",
+		"FROZEN"
+	],
 	"isDimensionSpawnsBlacklist": false,
 	"isBiomeNameSpawnsBlacklist": false,
 	"isBiomeTagSpawnsBlacklist": false,
 	"generateEverywhere": false,
 
-	"integrity": 1,
+	"integrity": 0.5,
 	"decay": 0,
 
 	"filling": "",
 	"fillingMetadata": 0,
 	"fillingType": "AIR",
 	
-	"rarity": 100
+	"rarity": 32
 }

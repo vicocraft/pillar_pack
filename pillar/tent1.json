@@ -3,10 +3,10 @@
 	"minY": -1,
 	"maxY": -1,
 	"offsetX": 0,
-	"offsetY": 0,
+	"offsetY": -1,
 	"offsetZ": 0,
 
-	"mirrorType": "mirror_left_right",
+	"mirrorType": "mirror_front_back",
 	"rotation": null,
 	"ignoreEntities": false,
 
@@ -15,24 +15,23 @@
 	],
 	"biomeNameSpawns": [],
 	"biomeTagSpawns": [
+		"FOREST",
 		"PLAINS",
 		"MOUNTAIN",
 		"HILLS",
-		"FROZEN",
-		"BEACH",
-		"DESERT"
+		"FROZEN"
 	],
 	"isDimensionSpawnsBlacklist": false,
 	"isBiomeNameSpawnsBlacklist": false,
 	"isBiomeTagSpawnsBlacklist": false,
 	"generateEverywhere": false,
 
-	"integrity": 0.7,
-	"decay": 1,
+	"integrity": 0.8,
+	"decay": 0,
 
 	"filling": "",
 	"fillingMetadata": 0,
 	"fillingType": "AIR",
 	
-	"rarity": 128
+	"rarity": 16
 }

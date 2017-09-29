@@ -1,9 +1,9 @@
 {
-	"generatorType": "SURFACE",
+	"generatorType": "ABOVE_WATER",
 	"minY": -1,
 	"maxY": -1,
 	"offsetX": 0,
-	"offsetY": 0,
+	"offsetY": -1,
 	"offsetZ": 0,
 
 	"mirrorType": "NONE",
@@ -30,9 +30,9 @@
 	"integrity": 0.5,
 	"decay": 0,
 
-	"filling": "",
+	"filling": "minecraft:cobblestone",
 	"fillingMetadata": 0,
-	"fillingType": "AIR",
+	"fillingType": "AIR_WATER",
 	
-	"rarity": 32
+	"rarity": 256
 }

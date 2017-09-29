@@ -1,12 +1,12 @@
 {
-	"generatorType": "SURFACE",
+	"generatorType": "NONE",
 	"minY": -1,
 	"maxY": -1,
 	"offsetX": 0,
-	"offsetY": -1,
+	"offsetY": 0,
 	"offsetZ": 0,
 
-	"mirrorType": "mirror_front_back",
+	"mirrorType": "NONE",
 	"rotation": null,
 	"ignoreEntities": false,
 
@@ -15,23 +15,19 @@
 	],
 	"biomeNameSpawns": [],
 	"biomeTagSpawns": [
-		"FOREST",
-		"PLAINS",
-		"MOUNTAIN",
-		"HILLS",
-		"FROZEN"
+		"WATER"
 	],
 	"isDimensionSpawnsBlacklist": false,
 	"isBiomeNameSpawnsBlacklist": false,
 	"isBiomeTagSpawnsBlacklist": false,
 	"generateEverywhere": false,
 
-	"integrity": 0.8,
+	"integrity": 1,
 	"decay": 0,
 
 	"filling": "",
 	"fillingMetadata": 0,
 	"fillingType": "AIR",
 	
-	"rarity": 128
+	"rarity": 256
 }

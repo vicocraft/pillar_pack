@@ -28,9 +28,9 @@
 	"integrity": 1,
 	"decay": 0,
 
-	"filling": "",
+	"filling": "minecraft:soul_sand",
 	"fillingMetadata": 0,
-	"fillingType": "AIR",
+	"fillingType": "AIR_WATER",
 	
-	"rarity": 128
+	"rarity": 512
 }

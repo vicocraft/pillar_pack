@@ -30,9 +30,9 @@
 	"integrity": 0.7,
 	"decay": 1,
 
-	"filling": "",
+	"filling": "minecraft:cobblestone",
 	"fillingMetadata": 0,
-	"fillingType": "AIR",
+	"fillingType": "AIR_WATER",
 	
-	"rarity": 128
+	"rarity": 1024
 }

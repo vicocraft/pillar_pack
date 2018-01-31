@@ -1,3 +1,7 @@
+**ARQUIVADO**! O desenvolvimento foi movido para [este repositório único](https://github.com/vicocraft/vicocraft)!
+
+**ARCHIVED**! Developement was moved for [here](https://github.com/vicocraft/vicocraft)!
+
 # Pillar-Pack
 
 Algumas estruturas convertidas de mods "antigos" (Ruins do AtomicStryker) ou schematics para o mod Pillar, que usa o formato de estruturas NBT intoduzido na versão 1.10.
